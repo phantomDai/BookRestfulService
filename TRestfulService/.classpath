@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jaxb-api-2.2.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jaxb-impl-2.2.4-1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-apache-client-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-atom-abdera-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-bundle-1.12.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-client-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-core-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-guice-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-json-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-multipart-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-server-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-servlet-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-simple-server-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jersey-spring-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/oauth-client-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/oauth-server-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/oauth-signature-1.18.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/jersey/jersey all jars/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/activemq-broker-5.12.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/activemq-client-5.12.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/activemq-openwire-legacy-5.12.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/bcprov-jdk15on-1.55.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cryptacular-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-core-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-manifest.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-bindings-coloc-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-bindings-corba-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-bindings-object-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-bindings-soap-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-bindings-xml-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-databinding-aegis-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-databinding-jaxb-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-databinding-jibx-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-databinding-sdo-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-databinding-xmlbeans-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-features-clustering-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-frontend-jaxrs-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-frontend-jaxws-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-frontend-js-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-frontend-simple-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-javascript-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-management-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-client-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-extension-providers-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-extension-search-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-json-basic-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-cors-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-jose-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-jose-jaxrs-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-oauth2-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-oauth-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-sso-saml-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-security-xml-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-rs-service-description-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-security-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-security-saml-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-http-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-http-hc-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-http-jetty-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-http-netty-client-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-http-netty-server-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-jms-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-local-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-transports-udp-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-ws-addr-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-wsdl-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-ws-mex-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-ws-policy-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-ws-rm-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-rt-ws-security-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-services-sts-core-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-services-ws-discovery-api-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-services-ws-discovery-service-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-services-wsn-api-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-services-wsn-core-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-common-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-corba-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-java2ws-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-misctools-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-validator-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-wadlto-jaxrs-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-wsdlto-core-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-wsdlto-databinding-jaxb-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-wsdlto-frontend-javascript-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-tools-wsdlto-frontend-jaxws-3.1.10.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-boolean-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-bug671-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-dv-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-javadoc-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-runtime-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/cxf-xjc-ts-3.0.5.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/ehcache-2.10.3.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/FastInfoset-1.2.13.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/geronimo-servlet_3.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/hawtbuf-1.11.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/httpasyncclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/java-support-7.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jaxb-core-2.2.11.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jaxb-impl-2.2.11.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jaxb-xjc-2.2.11.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jcl-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jettison-1.3.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-continuation-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-http-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-security-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-server-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/joda-time-2.7.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/js-1.7R2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/mina-core-2.0.13.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/oauth-20100527.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/oauth-provider-20100527.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-profile-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-saml-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-saml-impl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-security-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-security-impl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-soap-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xacml-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xacml-impl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xacml-saml-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xacml-saml-impl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xmlsec-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/opensaml-xmlsec-impl-3.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/slf4j-jdk14-1.7.22.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-aop-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-beans-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-context-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-core-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-expression-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/spring-web-4.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-bindings-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-policy-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-ws-security-common-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-ws-security-dom-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-ws-security-policy-stax-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/wss4j-ws-security-stax-2.1.8.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="G:/eclipse/myjars/cxf/xmlsec-2.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
